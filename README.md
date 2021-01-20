@@ -1,0 +1,2 @@
+# RecommendationSystemDemo
+基于Surprise实现的具有完整功能的推荐系统服务，并利用flask框架实现了简单的接口调用
